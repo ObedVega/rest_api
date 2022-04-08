@@ -2,6 +2,7 @@
 flask rest api
 
 This api rest is made with flask en python.
+
 1.- Fisrt we need to acces to the virtal environment with in the root directory with the following commnad
   rest_api> venv\Scripts\activate 
 
